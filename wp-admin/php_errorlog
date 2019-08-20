@@ -1,0 +1,72 @@
+[21-Jan-2019 14:17:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[30-Jan-2019 21:02:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/premium-addons-for-elementor/widgets/premium-carousel.php on line 930
+[07-Feb-2019 14:00:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[07-Feb-2019 20:09:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[07-Feb-2019 20:19:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[17-Feb-2019 16:41:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[17-Feb-2019 17:45:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[17-Feb-2019 18:46:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[17-Feb-2019 20:11:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[17-Feb-2019 20:20:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[18-Feb-2019 00:06:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[18-Feb-2019 18:39:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[18-Feb-2019 18:51:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[18-Feb-2019 18:54:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[18-Feb-2019 18:56:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Feb-2019 16:53:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Feb-2019 16:54:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Feb-2019 21:48:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[25-Feb-2019 13:42:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[04-Mar-2019 21:52:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[04-Mar-2019 22:05:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[05-Apr-2019 18:49:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[14-May-2019 21:00:35 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[14-May-2019 21:06:00 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[14-May-2019 21:18:56 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[14-May-2019 21:19:41 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[14-May-2019 21:20:59 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[14-May-2019 21:22:30 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[14-May-2019 21:23:18 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[14-May-2019 21:24:55 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[14-May-2019 21:26:09 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[14-May-2019 21:42:12 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[14-May-2019 21:44:26 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[15-May-2019 01:11:10 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[15-May-2019 01:16:15 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[15-May-2019 01:16:57 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[15-May-2019 01:18:51 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[15-May-2019 01:22:23 UTC] PHP Warning:  Illegal string offset 'body' in /home/nextproj/public_html/wp-content/plugins/cf7-conditional-fields/cf7cf.php on line 66
+[21-Jun-2019 08:11:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[21-Jun-2019 11:35:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[21-Jun-2019 11:40:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Jun-2019 09:01:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Jun-2019 09:03:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Jun-2019 09:03:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Jun-2019 09:17:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/cf7-salesforce/templates/logs.php on line 240
+[22-Jun-2019 10:28:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Jun-2019 10:30:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Jun-2019 10:46:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Jun-2019 10:46:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Jun-2019 10:46:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Jun-2019 10:46:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[26-Jun-2019 14:41:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[27-Jun-2019 05:28:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[27-Jun-2019 09:58:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[27-Jun-2019 15:09:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 06:00:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 09:41:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 10:41:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 10:41:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 11:09:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 11:10:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 11:15:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 11:35:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 11:35:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 12:40:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 12:43:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[28-Jun-2019 12:48:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[01-Jul-2019 12:42:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[01-Jul-2019 12:43:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[01-Jul-2019 12:48:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[24-Jul-2019 11:01:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/wp-content/plugins/cf7-salesforce/templates/logs.php on line 240
+[07-Aug-2019 06:06:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nextproj/public_html/preprod/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
